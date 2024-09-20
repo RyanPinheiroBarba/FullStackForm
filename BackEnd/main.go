@@ -6,6 +6,8 @@ import (
 
 	"FullStackForm/configs"
 
+	"FullStackForm/routes"
+
 	"github.com/gin-gonic/gin"
 	cors "github.com/itsjamie/gin-cors"
 )
